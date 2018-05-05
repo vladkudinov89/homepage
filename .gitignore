@@ -7,3 +7,4 @@
 *.iml
 out
 gen
+assets/plugins/bootstrap/css/bootstrap.css
